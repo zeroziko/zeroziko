@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zeroziko
 - 🌱 I’m currently learning PYTHON && Java
-- 📫 How to reach me "zakariaamro11@gmail.com"
+- 📫 How to reach me "zakariaomoro@gmail.com"
 
 <!---
 zeroziko/zeroziko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
